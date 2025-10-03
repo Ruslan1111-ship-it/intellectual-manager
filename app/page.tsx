@@ -19,7 +19,6 @@ export default function Home() {
 
   return (
     <div className="font-sans text-gray-800">
-      {/* Hero */}
       <header className="bg-gradient-to-r from-indigo-600 to-purple-600 text-white">
         <div className="max-w-6xl mx-auto px-4 py-16 text-center">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6">
@@ -45,7 +44,6 @@ export default function Home() {
         </div>
       </header>
 
-      {/* Pain Points */}
       <section className="py-16 bg-gray-50">
         <div className="max-w-6xl mx-auto px-4">
           <h2 className="text-3xl font-bold text-center mb-12">Вы сталкиваетесь с этим?</h2>
@@ -67,7 +65,6 @@ export default function Home() {
         </div>
       </section>
 
-      {/* How It Works */}
       <section className="py-16">
         <div className="max-w-6xl mx-auto px-4 text-center">
           <h2 className="text-3xl font-bold mb-12">Как это работает</h2>
@@ -89,7 +86,6 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Demo */}
       <section id="demo" className="py-16 bg-gray-50">
         <div className="max-w-4xl mx-auto px-4 text-center">
           <h2 className="text-3xl font-bold mb-6">Послушайте, как это звучит</h2>
@@ -102,7 +98,6 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Pricing */}
       <section id="pricing" className="py-16">
         <div className="max-w-5xl mx-auto px-4">
           <h2 className="text-3xl font-bold text-center mb-12">Тарифы</h2>
@@ -138,7 +133,6 @@ export default function Home() {
         </div>
       </section>
 
-      {/* CTA */}
       <section className="py-16 bg-gradient-to-r from-indigo-50 to-purple-50">
         <div className="max-w-3xl mx-auto px-4 text-center">
           <h2 className="text-3xl font-bold mb-4">Готовы убрать человеческий фактор из продаж?</h2>
@@ -164,7 +158,6 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Footer */}
       <footer className="bg-gray-900 text-white py-10">
         <div className="max-w-4xl mx-auto px-4 text-center">
           <div className="text-2xl font-bold mb-2">Intellectual Manager</div>
